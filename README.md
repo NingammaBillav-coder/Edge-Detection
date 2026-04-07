@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6f48cca7-9ef5-4180-938c-980d71368d48" /> 
+ 
 #  Color Image Edge Detection using Optimized Thresholding (WOA)
 **overview:**
 This project implements **edge detection on color images** using an optimization-based approach inspired by the **Whale Optimization Algorithm (WOA)**.
