@@ -1,7 +1,6 @@
-# Edge-Detection
-“An optimization-based edge detection project for color images using a search method inspired by Whale Optimization Algorithm (WOA), improving edge clarity and reducing noise compared to traditional methods.”
-
+ 
 #  Color Image Edge Detection using Optimized Thresholding (WOA)
+**overview:**
 This project implements **edge detection on color images** using an optimization-based approach inspired by the **Whale Optimization Algorithm (WOA)**.
 Unlike traditional methods that use fixed threshold values, this project finds **optimal thresholds automatically**, resulting in improved edge clarity and reduced noise.
 
